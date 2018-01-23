@@ -1,0 +1,1 @@
+include ':app', ':AdapterViewEX', ':myapplication', ':SimpleAdapterEX', ':IntentActivieyEX', ':IntentEX', ':FragmentEXfail', ':EasyFragment', ':FragmentEXFinal', ':FragmentEXFinal2', ':ActionBarEX', ':ActionBarEX', ':ActionBarEX2', ':ProviderEX', ':ContentProviderEX'

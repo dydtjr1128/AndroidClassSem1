@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActionBarEX/ActionBarEX.iml" filepath="$PROJECT_DIR$/ActionBarEX/ActionBarEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActionBarEX2/ActionBarEX2.iml" filepath="$PROJECT_DIR$/ActionBarEX2/ActionBarEX2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterViewEX/AdapterViewEX.iml" filepath="$PROJECT_DIR$/AdapterViewEX/AdapterViewEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidClass.iml" filepath="$PROJECT_DIR$/AndroidClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContentProviderEX/ContentProviderEX.iml" filepath="$PROJECT_DIR$/ContentProviderEX/ContentProviderEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EasyFragment/EasyFragment.iml" filepath="$PROJECT_DIR$/EasyFragment/EasyFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentEXFinal/FragmentEXFinal.iml" filepath="$PROJECT_DIR$/FragmentEXFinal/FragmentEXFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentEXFinal2/FragmentEXFinal2.iml" filepath="$PROJECT_DIR$/FragmentEXFinal2/FragmentEXFinal2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentEXfail/FragmentEXfail.iml" filepath="$PROJECT_DIR$/FragmentEXfail/FragmentEXfail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntentActivieyEX/IntentActivieyEX.iml" filepath="$PROJECT_DIR$/IntentActivieyEX/IntentActivieyEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntentEX/IntentEX.iml" filepath="$PROJECT_DIR$/IntentEX/IntentEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProviderEX/ProviderEX.iml" filepath="$PROJECT_DIR$/ProviderEX/ProviderEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleAdapterEX/SimpleAdapterEX.iml" filepath="$PROJECT_DIR$/SimpleAdapterEX/SimpleAdapterEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/fragment1item"
+        android:title="FragA"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/fragment2item"
+        android:title="FragB"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/fragment3item"
+        android:title="FragC" />
+
+</menu>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ActionBarEX" />
+            <option value="$PROJECT_DIR$/ActionBarEX2" />
+            <option value="$PROJECT_DIR$/AdapterViewEX" />
+            <option value="$PROJECT_DIR$/ContentProviderEX" />
+            <option value="$PROJECT_DIR$/EasyFragment" />
+            <option value="$PROJECT_DIR$/FragmentEXFinal" />
+            <option value="$PROJECT_DIR$/FragmentEXFinal2" />
+            <option value="$PROJECT_DIR$/FragmentEXfail" />
+            <option value="$PROJECT_DIR$/IntentActivieyEX" />
+            <option value="$PROJECT_DIR$/IntentEX" />
+            <option value="$PROJECT_DIR$/ProviderEX" />
+            <option value="$PROJECT_DIR$/SimpleAdapterEX" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/myapplication" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
